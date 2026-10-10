@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Cauã Rodrigo de Almeida da Silva, tenho 18 anos e sou natural de Rondônia. Concluí o ensino médio no Intituto Federal de Educação, Ciência e Tecnologia IFRO Campus Vilhena com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFRO.
+Me chamo Cauã Rodrigo de Almeida da Silva, tenho 18 anos e sou natural de Vilhena RO. Concluí o ensino médio no Instituto Federal de Educação, Ciência e Tecnologia IFRO Campus Vilhena com o curso técnico em informática integrado ao ensino médio. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFRO.
 
 ---
 
